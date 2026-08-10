@@ -5,7 +5,7 @@
 **NTI Embedded Systems internship Graduation Project**
 
 *Developed by:*<br>
-**Ali Aldowaik** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_علي_هنا) | **Fares Elsherif** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_فارس_هنا) | **Mohanad Mohamed** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-mohamed-8714ba305)
+**Aly Eldowaik** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_علي_هنا) | **Fares Elsherif** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_فارس_هنا) | **Mohanad Mohamed** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-mohamed-8714ba305)
 
 A complete, state-machine-driven elevator controller built for the AVR ATmega32.
 It handles 6-floor call logic, DC-motor cabin/climb and door actuation, a 7-segment
