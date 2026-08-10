@@ -2,7 +2,7 @@
 
 # 🛗 AVR Elevator Controller
 
-**NTI Embedded Systems internship Graduation Project**jjjj
+**NTI Embedded Systems internship Graduation Project**
 
 A complete, state-machine-driven elevator controller built for the AVR ATmega32.
 It handles 6-floor call logic, DC-motor cabin/climb and door actuation, a 7-segment
