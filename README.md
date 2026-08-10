@@ -5,7 +5,7 @@
 **NTI Embedded Systems internship Graduation Project**
 
 *Developed by:*<br>
-**Aly Eldowaik** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_علي_هنا) | **Fares Elsherif** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](رابط_حساب_فارس_هنا) | **Mohanad Mohamed** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-mohamed-8714ba305)
+**Aly Eldowaik** <a href="https://www.linkedin.com/in/ali-aldowaik-18510b372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | **Fares Elsherif** <a href="https://www.linkedin.com/in/fares-elsherif-123945378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | **Mohanad Mohamed** <a href="https://www.linkedin.com/in/mohanad-mohamed-8714ba305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 A complete, state-machine-driven elevator controller built for the AVR ATmega32.
 It handles 6-floor call logic, DC-motor cabin/climb and door actuation, a 7-segment
@@ -16,10 +16,10 @@ all in C with a clean layered driver architecture.
 
 ---
 
-[![C](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Platform](https://img.shields.io/badge/platform-ATmega32-green.svg)](#)
-[![Toolchain](https://img.shields.io/badge/toolchain-AVR--GCC-orange)](#)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](#)
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/language-C-blue.svg" alt="C"></a>
+<img src="https://img.shields.io/badge/platform-ATmega32-green.svg" alt="Platform">
+<img src="https://img.shields.io/badge/toolchain-AVR--GCC-orange" alt="Toolchain">
+<img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License">
 
 </div>
 ---
