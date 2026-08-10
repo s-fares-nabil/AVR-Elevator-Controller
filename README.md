@@ -27,6 +27,7 @@ all in C with a clean layered driver architecture.
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
+- [Hardware Demo](#-hardware-demo)
 - [Features](#-features)
 - [Hardware & Pin Mapping](#-hardware--pin-mapping)
 - [Software Architecture](#-software-architecture)
@@ -34,6 +35,7 @@ all in C with a clean layered driver architecture.
 - [Building the Project](#-building-the-project)
 - [Repository Structure](#-repository-structure)
 - [How It Works](#-how-it-works)
+- [Team](#-team)
 - [Future Improvements](#-future-improvements)
 
 ---
@@ -50,7 +52,6 @@ The core logic is implemented as a **deterministic state machine** running on a
 fixed 1 ms software tick. All button inputs are processed through an independent
 debounce finite-state machine before any request reaches the main elevator state
 machine — one press always produces exactly one action.
-
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                        AVR ELEVATOR                          │
@@ -66,6 +67,12 @@ machine — one press always produces exactly one action.
 │   └────────┘                       └────────────────┘       │
 └──────────────────────────────────────────────────────────────┘
 ```
+---
+
+## 🎥 Hardware Demo
+
+Watch the physical implementation and hardware demonstration of the elevator controller in action:
+👉 **[Watch the Demo Video on Google Drive](https://drive.google.com/drive/folders/1kQPZIzeC9BJpLii9P3LvDX5eFKlg9DQU?usp=sharing)**
 
 ---
 
