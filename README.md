@@ -58,7 +58,7 @@ machine — one press always produces exactly one action.
 │                                                              │
 │   ┌────────┐   FLOOR BUTTONS (x6)   ┌────────────────┐       │
 │   │  7-Seg │◄─────── Display ───────│                │       │
-│   │  (FD)  │                        │  ATmega328     │       │
+│   │  (FD)  │                        │  ATmega32     │       │
 │   └────────┘   Direction LEDs       │  State Machine │       │
 │                                     │                │       │
 │   ┌────────┐   Door LED             │  ├─ Climb Motor│       │
@@ -203,7 +203,7 @@ BUTTON_RELEASED ──► BUTTON_PRESS_DEBOUNCE ──► BUTTON_PRESSED
 
 ## 🛠 Building the Project
 
-The project ships with a complete **AVR-GCC** for the `ATmega328`.
+The project ships with a complete **AVR-GCC** for the `ATmega32`.
 
 ```bash
 make            # compiles and links, producing main.hex and main.elf
@@ -214,7 +214,7 @@ The prebuilt firmware is already provided at `13-App-Elevator-System/main.hex` a
 be flashed with:
 
 ```bash
-avrdude -p atmega328p -c usbasp -U flash:w:13-App-Elevator-System/main.hex
+avrdude -p atmega32p -c usbasp -U flash:w:13-App-Elevator-System/main.hex
 ```
 
 > Adjust the programmer (`-c`) and port to your own hardware.
