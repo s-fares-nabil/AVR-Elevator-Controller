@@ -42,7 +42,7 @@ all in C with a clean layered driver architecture.
 
 ## 📌 Overview
 
-This project is a **6-floor elevator controller** implemented on an ATmega328
+This project is a **6-floor elevator controller** implemented on an ATmega32
 microcontroller. The cabin moves up and down between floors using a dedicated
 **climbing DC motor**, while a second **DC motor** handles the cabin door. A single
 seven-segment display always shows the current floor, and a pair of LEDs indicate
